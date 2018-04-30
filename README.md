@@ -12,6 +12,6 @@ Throttle controller was configured with terms similar to the Steering Controller
 ## Vehicle Performance
 The vehicle managed to complete the track at both lower speed (<40 mph) and higher speed (<60 mph), though a passenger would likely get mildly sick at a lower speed and seriously sick at a higher speed due to the car oscillating around the center of the track.
 
-Lower speed performance  [video](../blob/master/media/lower_speed.mp4)
+Lower speed performance  [video](../master/media/lower_speed.mp4)
 
-Higher speed performance  [video](../blob/master/media/higher_speed.mp4)
+Higher speed performance  [video](../master/media/higher_speed.mp4)
